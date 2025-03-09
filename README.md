@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glitchx00&label=Profile%20views&color=0e75b6&style=flat" alt="glitchx00" /> </p>
 
 
-- 🔭 I’m currently working as a **Data analysis**
+- 🔭 I’m currently working as a **Data analyst**
 
 - 🌱 I’m currently learning **Advanced SQL, DAX and Python**
 
