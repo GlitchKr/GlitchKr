@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glitchx00&label=Profile%20views&color=0e75b6&style=flat" alt="glitchx00" /> </p>
 
 
-- 🔭 I’m currently working as a **Data analyst**
+- 🔭 I’m currently working as a **Data analyst** at Respect Tours company At Cairo
 
 - 🌱 I’m currently learning **Advanced SQL, DAX and Python**
 
@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Detailed sales and business statistics panels and reports**
 
-- 📫 How to reach me **glitchkr0@gmail.com**
+- 📫 How to reach me **mohamedali.datax@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
