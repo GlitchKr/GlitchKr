@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Glitchkr&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 <h1 align="center">Mohamed Ali</h1>
 
 <h3 align="center">
@@ -184,8 +190,4 @@ Creating automated reporting solutions using:
 
 📧 Email: **mohamedali.datax@gmail.com**
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Glitchkr&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
