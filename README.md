@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Glitchkr&label=Profile%20views&color=0e75b6&style=flat" alt="Glitchkr" /> </p>
 
 
-- 🔭 I’m currently working as a **Data analyst** at Respect Tours company At Cairo
+- 🔭 I’m currently working as a **Data analyst** at A Tourism company At Cairo
 
 - 🌱 I’m currently learning **Advanced SQL, DAX and Python**
 
