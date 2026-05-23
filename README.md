@@ -1,10 +1,18 @@
 <h1 align="center">Mohamed Ali</h1>
-<h3 align="center">Data Analyst | Business & Operations Analytics | Building Smart Business Systems</h3>
+
+<h3 align="center">
+Analytics Engineer | Data Analyst | Building Scalable Business & Operations Systems
+</h3>
+
+<p align="center">
+Turning business operations into scalable data systems, analytics workflows, and decision-ready platforms.
+</p>
 
 <p align="center">
   <a href="mailto:mohamedali.datax@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
+  
   <a href="https://github.com/Glitchkr">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
@@ -12,81 +20,145 @@
 
 ---
 
-## About Me
+# About Me
 
-Data Analyst with hands-on experience in tourism, logistics, and business operations.  
-Focused on transforming raw operational data into business decisions, automation systems, and scalable analytics solutions.
+I work at the intersection of:
 
-Currently expanding into:
+- Analytics Engineering
+- Business Intelligence
+- Operational Analytics
+- Data Automation
+- Business Systems Design
 
-- Advanced SQL & Query Optimization
-- Python for Analytics & Automation
-- Power BI & DAX
-- Business Intelligence Engineering
-- Operations & Sales Analytics
-- System Design for Business Operations
+Currently working as a Data Analyst in the tourism & transportation industry, where I focus on transforming operational data into scalable reporting systems, KPI frameworks, automation workflows, and business decision tools.
 
-I’m especially interested in building systems that improve:
-- Operational efficiency
-- Revenue visibility
-- Workforce productivity
-- Decision-making workflows
-- KPI monitoring and reporting
+My long-term focus is building data-driven operational platforms for SMEs and enterprise operations.
 
 ---
 
-## Current Focus
+# What I Focus On
 
-- Building advanced dashboards and operational reporting systems
-- Designing business-oriented analytics workflows
-- Learning scalable backend and system architecture concepts
-- Developing real-world business analytics projects
+### Analytics Engineering
+- Data Modeling
+- KPI Layer Design
+- Metrics Standardization
+- Reporting Architecture
+- Data Transformation Pipelines
+- Business Logic Engineering
+
+### Business Analytics
+- Operations Analytics
+- Sales Analytics
+- Revenue Tracking
+- Customer & Behavioral Analytics
+- Performance Monitoring
+- Decision Support Systems
+
+### Data & Automation
+- SQL Optimization
+- Python Automation
+- ETL Workflows
+- Dashboard Systems
+- Reporting Automation
+- Data Quality Validation
+
+### Systems Thinking
+- Scalable Operational Systems
+- Fleet & Transportation Operations
+- Workflow Optimization
+- Business Process Design
+- AI-Assisted Productivity Systems
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Analytics & BI
+## Data & Analytics
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 </p>
 
 - SQL Server
-- Power BI
-- DAX
-- Excel Analytics
+- PostgreSQL
+- MySQL
+- Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - Scikit-learn
+- Power BI
+- DAX
+- Excel
 
-### Development & Tools
+---
+
+## Engineering & Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 - Git & GitHub
 - REST APIs
+- Docker
+- Data Pipelines
+- Modular System Design
 - Automation Scripts
-- Data Cleaning Pipelines
-- Business Reporting Systems
+- Backend Architecture Fundamentals
 
 ---
 
-## Featured Interests
+# Current Engineering Direction
 
-- Business Intelligence
-- Operations Management Systems
-- Sales & Marketing Analytics
-- Fleet & Transportation Systems
-- Data-Driven Decision Making
+I’m currently moving beyond traditional dashboarding into:
+
 - Analytics Engineering
-- AI-Powered Business Systems
+- Scalable Data Infrastructure
+- Business-Oriented System Design
+- Operational Intelligence Platforms
+- Data Products for SMEs
+- AI-assisted operational workflows
 
 ---
 
-## GitHub Stats
+# Featured Project Areas
+
+## Operations Analytics Platform
+Building operational KPI systems for transportation and workforce operations:
+- Trip Monitoring
+- Operational Efficiency Tracking
+- Driver Performance
+- Cost & Revenue Analysis
+- Real-time Operational Visibility
+
+## Sales & Marketing Analytics
+Developing business analytics systems including:
+- Funnel Analysis
+- Cohort Analysis
+- RFM Segmentation
+- CAC & ROAS Tracking
+- Retention & Churn Analytics
+
+## Reporting & Automation Systems
+Creating automated reporting solutions using:
+- SQL
+- Python
+- Power BI
+- Business Logic Pipelines
+
+---
+
+# GitHub Goals
+
+- Build production-style analytics projects
+- Create scalable analytics architectures
+- Publish business-focused data case studies
+- Develop operational intelligence systems
+- Combine analytics + engineering + business strategy
+
+---
+
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Glitchkr&show_icons=true&theme=tokyonight" height="180"/>
@@ -96,16 +168,19 @@ I’m especially interested in building systems that improve:
 
 ---
 
-## Current Goals
+# Current Learning Focus
 
-- Build enterprise-level analytics projects
-- Create scalable business systems
-- Strengthen software architecture understanding
-- Transition from analyst to business-focused tech builder
+- Advanced SQL Optimization
+- Analytics Engineering Concepts
+- Data Warehouse Modeling
+- ETL & Transformation Design
+- Scalable Reporting Systems
+- Backend & System Architecture
+- Business Operations Engineering
 
 ---
 
-## Contact
+# Connect
 
 📧 Email: **mohamedali.datax@gmail.com**
 
