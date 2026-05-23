@@ -1,26 +1,116 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
-<h3 align="center">A Data Analyst from cairo</h3>
+<h1 align="center">Mohamed Ali</h1>
+<h3 align="center">Data Analyst | Business & Operations Analytics | Building Smart Business Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Glitchkr&label=Profile%20views&color=0e75b6&style=flat" alt="Glitchkr" /> </p>
-
-
-- 🔭 I’m currently working as a **Data analyst** at A Tourism company At Cairo
-
-- 🌱 I’m currently learning **Advanced SQL, DAX and Python**
-
-- 👯 I’m looking to collaborate on **Develop work and increase productivity**
-
-- 🤝 I’m looking for help with **Detailed sales and business statistics panels and reports**
-
-- 📫 How to reach me **mohamedali.datax@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:mohamedali.datax@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Glitchkr">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Glitchkr&show_icons=true&locale=en&layout=compact" alt="Glitchkr" /></p>
+## About Me
 
+Data Analyst with hands-on experience in tourism, logistics, and business operations.  
+Focused on transforming raw operational data into business decisions, automation systems, and scalable analytics solutions.
 
+Currently expanding into:
+
+- Advanced SQL & Query Optimization
+- Python for Analytics & Automation
+- Power BI & DAX
+- Business Intelligence Engineering
+- Operations & Sales Analytics
+- System Design for Business Operations
+
+I’m especially interested in building systems that improve:
+- Operational efficiency
+- Revenue visibility
+- Workforce productivity
+- Decision-making workflows
+- KPI monitoring and reporting
+
+---
+
+## Current Focus
+
+- Building advanced dashboards and operational reporting systems
+- Designing business-oriented analytics workflows
+- Learning scalable backend and system architecture concepts
+- Developing real-world business analytics projects
+
+---
+
+## Tech Stack
+
+### Analytics & BI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+</p>
+
+- SQL Server
+- Power BI
+- DAX
+- Excel Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+### Development & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Git & GitHub
+- REST APIs
+- Automation Scripts
+- Data Cleaning Pipelines
+- Business Reporting Systems
+
+---
+
+## Featured Interests
+
+- Business Intelligence
+- Operations Management Systems
+- Sales & Marketing Analytics
+- Fleet & Transportation Systems
+- Data-Driven Decision Making
+- Analytics Engineering
+- AI-Powered Business Systems
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glitchkr&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchkr&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## Current Goals
+
+- Build enterprise-level analytics projects
+- Create scalable business systems
+- Strengthen software architecture understanding
+- Transition from analyst to business-focused tech builder
+
+---
+
+## Contact
+
+📧 Email: **mohamedali.datax@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Glitchkr&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
