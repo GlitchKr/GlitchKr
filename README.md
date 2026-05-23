@@ -5,7 +5,7 @@ Analytics Engineer • Data Analyst • Business Systems Builder
 </h3>
 
 <p align="center">
-Building scalable analytics systems, operational intelligence platforms, and data-driven business workflows.
+Building scalable analytics systems, data pipelines, KPI frameworks, and operational intelligence platforms.
 </p>
 
 ---
@@ -22,50 +22,68 @@ Building scalable analytics systems, operational intelligence platforms, and dat
 
 ---
 
-## Tech Stack
+# Analytics & Engineering Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,docker,git,github,vscode,bash" />
 </p>
 
 <p align="center">
-  
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi)
 
-![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)
 
-![DAX](https://img.shields.io/badge/DAX-Metrics%20Engineering-black?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge&logo=powerbi)
+
+![DAX](https://img.shields.io/badge/DAX-Metrics-black?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-Automation-green?style=for-the-badge)
 
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-darkblue?style=for-the-badge)
+
+![NumPy](https://img.shields.io/badge/NumPy-Analytics-4D77CF?style=for-the-badge)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge)
+
+![Excel](https://img.shields.io/badge/Excel-Business%20Reporting-green?style=for-the-badge&logo=microsoft-excel)
+
+![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-purple?style=for-the-badge)
+
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Analytics%20Engineering-darkred?style=for-the-badge)
+
+![API](https://img.shields.io/badge/REST%20API-Integrations-lightgrey?style=for-the-badge)
+
+![Automation](https://img.shields.io/badge/Automation-Workflows-blueviolet?style=for-the-badge)
+
 </p>
 
 ---
 
-## Focus Areas
+# Focus Areas
 
 - Analytics Engineering
-- Operational Analytics
-- KPI & Metrics Design
-- Reporting Automation
-- Data Modeling
 - Business Intelligence
-- Data Pipelines
-- Business Systems Architecture
-
----
-
-## Current Direction
-
-Designing business-focused analytics systems for:
-- Operations & Transportation
+- Operational Analytics
 - Sales & Marketing Analytics
-- Workforce & Performance Tracking
-- Operational Intelligence Platforms
+- KPI & Metrics Engineering
+- Reporting Automation
+- Data Transformation
+- Business Systems Architecture
+- Decision Support Systems
 
 ---
 
-## GitHub Stats
+# Current Direction
+
+Designing scalable analytics systems and operational platforms for:
+- Transportation & Fleet Operations
+- Workforce & Productivity Tracking
+- Sales Performance Analytics
+- Business Reporting Infrastructure
+- AI-Assisted Operational Workflows
+
+---
+
+# GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Glitchkr&show_icons=true&theme=tokyonight"/>
@@ -75,7 +93,7 @@ Designing business-focused analytics systems for:
 
 ---
 
-## Engineering Mindset
+# Engineering Mindset
 
 ```txt
-Data → Transformation → Metrics → Insights → Business Decisions
+Data → Pipelines → Metrics → Insights → Decisions → Business Impact
