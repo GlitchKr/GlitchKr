@@ -29,34 +29,22 @@ Building scalable analytics systems, data pipelines, KPI frameworks, and operati
 </p>
 
 <p align="center">
-
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge&logo=powerbi)
-
-![DAX](https://img.shields.io/badge/DAX-Metrics-black?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-Automation-green?style=for-the-badge)
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-darkblue?style=for-the-badge)
-
-![NumPy](https://img.shields.io/badge/NumPy-Analytics-4D77CF?style=for-the-badge)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge)
-
-![Excel](https://img.shields.io/badge/Excel-Business%20Reporting-green?style=for-the-badge&logo=microsoft-excel)
-
-![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-purple?style=for-the-badge)
-
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Analytics%20Engineering-darkred?style=for-the-badge)
-
-![API](https://img.shields.io/badge/REST%20API-Integrations-lightgrey?style=for-the-badge)
-
-![Automation](https://img.shields.io/badge/Automation-Workflows-blueviolet?style=for-the-badge)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55" height="55"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="70"/>
+  
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/DAX.svg" width="55"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="55" height="55"/>
 </p>
-
----
 
 # Focus Areas
 
